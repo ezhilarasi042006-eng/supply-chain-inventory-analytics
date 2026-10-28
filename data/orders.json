@@ -1,0 +1,67 @@
+[
+  {
+    "id": "PO101",
+    "supplierId": "S001",
+    "items": [
+      {
+        "productId": "P001",
+        "qty": 5,
+        "price": 15
+      }
+    ],
+    "status": "Draft",
+    "received": false
+  },
+  {
+    "id": "PO102",
+    "supplierId": "S001",
+    "items": [
+      {
+        "productId": "P001",
+        "qty": 5,
+        "price": 15
+      }
+    ],
+    "status": "Pending",
+    "received": false
+  },
+  {
+    "id": "PO103",
+    "supplierId": "S001",
+    "items": [
+      {
+        "productId": "P001",
+        "qty": 5,
+        "price": 15
+      }
+    ],
+    "status": "Approved",
+    "received": false
+  },
+  {
+    "id": "PO104",
+    "supplierId": "S001",
+    "items": [
+      {
+        "productId": "P001",
+        "qty": 5,
+        "price": 15
+      }
+    ],
+    "status": "Shipped",
+    "received": false
+  },
+  {
+    "id": "PO105",
+    "supplierId": "S001",
+    "items": [
+      {
+        "productId": "P001",
+        "qty": 5,
+        "price": 15
+      }
+    ],
+    "status": "Received",
+    "received": true
+  }
+]

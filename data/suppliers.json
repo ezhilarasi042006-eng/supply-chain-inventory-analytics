@@ -1,0 +1,62 @@
+[
+  {
+    "id": "S001",
+    "company": "Supplier 1",
+    "contact": "Manager",
+    "email": "supplier1@example.com",
+    "phone": "9000000000",
+    "address": "Chennai",
+    "categories": "Mixed",
+    "deliveryTime": 3,
+    "rating": 4.7,
+    "status": "Active"
+  },
+  {
+    "id": "S002",
+    "company": "Supplier 2",
+    "contact": "Manager",
+    "email": "supplier2@example.com",
+    "phone": "9000000000",
+    "address": "Chennai",
+    "categories": "Mixed",
+    "deliveryTime": 4,
+    "rating": 4.4,
+    "status": "Active"
+  },
+  {
+    "id": "S003",
+    "company": "Supplier 3",
+    "contact": "Manager",
+    "email": "supplier3@example.com",
+    "phone": "9000000000",
+    "address": "Chennai",
+    "categories": "Mixed",
+    "deliveryTime": 5,
+    "rating": 4.1,
+    "status": "Active"
+  },
+  {
+    "id": "S004",
+    "company": "Supplier 4",
+    "contact": "Manager",
+    "email": "supplier4@example.com",
+    "phone": "9000000000",
+    "address": "Chennai",
+    "categories": "Mixed",
+    "deliveryTime": 6,
+    "rating": 3.8,
+    "status": "Active"
+  },
+  {
+    "id": "S005",
+    "company": "Supplier 5",
+    "contact": "Manager",
+    "email": "supplier5@example.com",
+    "phone": "9000000000",
+    "address": "Chennai",
+    "categories": "Mixed",
+    "deliveryTime": 7,
+    "rating": 3.5,
+    "status": "Active"
+  }
+]
